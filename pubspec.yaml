@@ -1,7 +1,8 @@
 name: sorting_native
 description: A new Flutter plugin.
 version: 0.0.1
-homepage:
+homepage: https://github.com/tungtd95/sorting-native
+repository: https://github.com/tungtd95/sorting-native
 
 environment:
   sdk: ">=2.15.1 <3.0.0"
